@@ -35,6 +35,3 @@ Responsive UI Design
 Clean Code Practices
 
 
-
-
-github APIKEY:-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
