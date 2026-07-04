@@ -34,8 +34,8 @@ console.log(response);
 
            
            
-          content.innerHTML = ` <p>Location: ${data.location}</p>
-          <p >GitHub Link:
+          content.innerHTML = ` <p>📍 Location: ${data.location || "Not Available"}</p>
+          <p >🔗   GitHub Link:
     
             <a href="${data.html_url}" target="_blank">View Profile</a> </p>`;
 
